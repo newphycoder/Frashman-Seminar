@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: report.aux
+The style file: plain.bst
+Database file #1: docu/docm.bib
+I was expecting a `,' or a `}'---line 42 of file docu/docm.bib
+ : pages = {755-758}
+ :                  ，
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 58 of file docu/docm.bib
+ : pages = {166-168}
+ :                  ，
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 74 of file docu/docm.bib
+ : howpublished 
+ :              = {\url{}},
+I'm skipping whatever remains of this entry
+Warning--there's a number but no volume in learninggoal
+Warning--there's a number but no volume in phone
+Warning--there's a number but no volume in genderdifference
+Warning--there's a number but no volume in delay
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            527 strings with 4605 characters,
+and the built_in function-call counts, 1389 in all, are:
+= -- 136
+> -- 35
+< -- 0
++ -- 15
+- -- 10
+* -- 96
+:= -- 236
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 20
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 51
+empty$ -- 132
+format.name$ -- 10
+if$ -- 292
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 4
+newline$ -- 28
+num.names$ -- 10
+pop$ -- 20
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 28
+stack$ -- 0
+substring$ -- 112
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 4
+while$ -- 14
+width$ -- 6
+write$ -- 55
+(There were 3 error messages)
